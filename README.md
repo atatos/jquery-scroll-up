@@ -25,13 +25,13 @@ $.scrollUp()
 ```
 
 Avaliable options:
-```
-location - Should be 'right' or 'left'.
-image_src: A string with the path to your image. Default: 'img/arrow_up.png'.
-wait: An integer with the amout of pixel the user should scroll before the link is displayed.
-time: An integer with the amount of milliseconds the smooth scroll animation should last.
 
-```
+**location:** - Should be 'right' or 'left'.
+**image_src:** A string with the path to your image. Default: 'img/arrow_up.png'.
+**wait:** An integer with the amout of pixel the user should scroll before the link is displayed.
+**time:** An integer with the amount of milliseconds the smooth scroll animation should last.
+
+
 
 ## Example
 
