@@ -24,7 +24,7 @@ Add this code to initialize the plugin:
 $.scrollUp()
 ```
 
-Avaliable options:
+## Options:
 
 **location:** - Should be 'right' or 'left'.
 
