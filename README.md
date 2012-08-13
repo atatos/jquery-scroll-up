@@ -3,7 +3,7 @@ jQuery ScrollUp
 
 A small jQuery plugin that adds "to the top"-link in the bottom of the screen.
 
-The plugin adds a small arrow to the bottom of the screen, and when the user clicks it the page automatically scrolls the user to the top of the screen. With a smooth animaton ofcourse. The arrow is only visible when the user has scrolled down the page, for maximum user experience.
+The plugin adds a small arrow to the bottom of the screen, and when the user clicks it the page automatically scrolls the user to the top of the screen. With a smooth animaton of course. The arrow is only visible when the user has scrolled down the page, for maximum user experience.
 
 ![jQuery ScrollUp in action](http://filipstefansson.github.com/jquery-scroll-up/example.png)
 
@@ -12,6 +12,11 @@ The plugin adds a small arrow to the bottom of the screen, and when the user cli
 * Only 4k
 * Smooth scrolling
 * Only shown if the user has scrolled.
+
+## WordPress plugin
+
+You can find a WordPress plugin version of this here:
+[WordPress Plugin](http://wordpress.org/extend/plugins/jquery-scrollup/)
 
 ## Usage
 Import jquery.scroll-up.js
