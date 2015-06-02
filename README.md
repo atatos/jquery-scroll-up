@@ -52,6 +52,7 @@ $.scrollUp({
 	'image_src': 'img/arrow_up.png'
 	'wait': 200
 	'time': 300
+	'anchor': '#'
 })
 </script>
 ```
